@@ -1,0 +1,13 @@
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\bin\Debug\netcoreapp3.1\OnlineTest.exe
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\bin\Debug\netcoreapp3.1\OnlineTest.deps.json
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\bin\Debug\netcoreapp3.1\OnlineTest.runtimeconfig.json
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\bin\Debug\netcoreapp3.1\OnlineTest.runtimeconfig.dev.json
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\bin\Debug\netcoreapp3.1\OnlineTest.dll
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\bin\Debug\netcoreapp3.1\OnlineTest.pdb
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.csprojAssemblyReference.cache
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.AssemblyInfoInputs.cache
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.AssemblyInfo.cs
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.csproj.CoreCompileInputs.cache
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.dll
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.pdb
+C:\Users\ia23\source\repos\OnlineTest\OnlineTest\obj\Debug\netcoreapp3.1\OnlineTest.genruntimeconfig.cache

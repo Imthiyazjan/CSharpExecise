@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YF1Jd3IG/q172VxdnXMMNkBU65mhMFD36y07RHjse8MqgIZF1HSftGxVanqOcuJ7wJri16pKIQPCqtjIImkEiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ia23\\source\\repos\\OnlineTest\\OnlineTest\\OnlineTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ia23\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
